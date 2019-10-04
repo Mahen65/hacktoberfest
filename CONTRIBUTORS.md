@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Asiri Mahendra](https://github.com/itepifanio)
+#### Name: [Asiri Mahendra](https://github.com/Mahen65)
 - Place: Panadura, Sri Lanka
 - Bio: Full Stack Developer(.Net)
 - Github: [Asiri Mahendra](https://github.com/Mahen65)
